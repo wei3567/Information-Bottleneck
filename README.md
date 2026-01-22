@@ -16,4 +16,8 @@ Relevant papers related to Information Bottleneck (IB) method or can be combined
 *Peters, Baron. 2016*
 <br>
 
+## Run-and-Tumble dynamics translated into RC language
+**Transition path sampling for run-and-tumble particles** [[link](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.110.054121)]\
+*Kiechl, Thomas and Franosch, Thomas and Caraglio, Michele. 2024*
+<br>
 
