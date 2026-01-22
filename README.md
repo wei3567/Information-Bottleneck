@@ -36,6 +36,8 @@ Relevant papers for Information Bottleneck (IB) method or can be combined with I
 **Escherichia coli chemotaxis is information limited**[[link](https://www.nature.com/articles/s41567-021-01380-3.pdf)]\
 *Mattingly, Henry H., et al. 2021*
 
+**Inferring the Chemotactic Strategy of P. putida and E. coli Using Modified Kramers-Moyal Coefficients**[[link](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005329&type=printable)]\
+*Pohl, Oliver, et al. 2017*
 
 **Quantitative characterization of run-and-tumble statistics in bulk bacterial suspensions**[[link](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.109.014612)]\
 *Zhao, Yongfeng, et al. 2024*
