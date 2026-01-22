@@ -2,11 +2,13 @@
 Relevant papers related to Information Bottleneck (IB) method or can be combined with IB in the future
 
 
-**State Predictive Information Bottleneck (SPIB)** [[link]]
+**State Predictive Information Bottleneck (SPIB)** [[link](https://pubs.aip.org/aip/jcp/article/154/13/134111/1013207)]
+Wang, Dedi, and Pratyush Tiwary. 2021\
+<br>
+
 **Information bottleneck approach for Markov model construction** [[link](https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.4c00449?ref=article_openPDF)] \
 Wang, Dedi, et al. 2024\
 <br>
-
 
 
 ## Reaction coordinate
